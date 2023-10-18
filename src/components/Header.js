@@ -27,7 +27,7 @@ const Image = styled.svg`
 const Header = () => (
     <Link to='/'>
         <HeaderWrapper>
-            <Image />
+          
         </HeaderWrapper>
     </Link>
 )
